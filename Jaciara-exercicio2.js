@@ -4,5 +4,8 @@ alert(5 * 8);
             
 var listadecompras = ["Requeijão, nutella, pão integral, biscoitos e frutas"]
 alert(listadecompras);
+            
+
+
 
 
